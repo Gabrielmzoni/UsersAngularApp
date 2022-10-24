@@ -3,7 +3,10 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
+  apiBaseUrl: "http://usersspringbootapp-env.eba-esnfxgpm.us-east-1.elasticbeanstalk.com",
   production: false
+
+  
 };
 
 /*
